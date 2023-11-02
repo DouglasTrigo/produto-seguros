@@ -1,0 +1,8 @@
+com\projeto\produtoseguros\mock\CategoriaMock.class
+com\projeto\produtoseguros\controller\ProdutoControllerImplIntegracaoTest.class
+com\projeto\produtoseguros\controller\ProdutoControllerImplTest.class
+com\projeto\produtoseguros\mock\ProdutoMock.class
+com\projeto\produtoseguros\service\ProdutoServiceImplTest.class
+com\projeto\produtoseguros\component\impl\CalculadoraDePrecoTarifadoImplTest.class
+com\projeto\produtoseguros\mock\ProdutoMock$ProdutoDtoBuilder.class
+com\projeto\produtoseguros\mock\CategoriaMock$CategoriaEnum.class
