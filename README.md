@@ -2,10 +2,10 @@
 
 ## Indice
 
-1. [Tecnologias] (#tecnologias)
-2. [Execução local] (#execucaolocal)
-3. [Observações] (#observacoes)
-4. [Acessando o Grafana] (#grafana)
+1. [Tecnologias](#tecnologias)
+2. [Execução local](#execucaolocal)
+3. [Observações](#observacoes)
+4. [Acessando o Grafana](#grafana)
 
 ## <a name="tecnologias">Tecnologias</a>
 
